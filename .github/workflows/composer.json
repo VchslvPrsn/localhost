@@ -1,2 +1,1 @@
-- name: Run test suite
- run: composer run-script test
+"test": "vendor/bin/phpunit"
